@@ -1,0 +1,11 @@
+# данные MovieLens скачиваются ноутбуком автоматически
+data/
+*.zip
+
+# окружение и служебные файлы
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
